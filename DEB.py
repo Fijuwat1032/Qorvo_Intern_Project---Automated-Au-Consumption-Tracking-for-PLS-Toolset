@@ -1,7 +1,7 @@
 # from datetime import datetime
 # import time
 # import requests
-# url = 'http://10.100.230.95:8161/api/message/MESMSG'
+# url = 'confidential'
 # ts = time.time()
 # st = datetime.fromtimestamp(ts).strftime('%Y/%m/%d-%H:%M:%S.000')
 # st2 = datetime.fromtimestamp(ts).strftime('%Y/%m/%d-%H:%M:%S.005')
@@ -32,7 +32,7 @@
 from datetime import datetime
 import time
 import requests
-url = 'http://10.100.230.95:8161/api/message/MESMSG'
+url = 'confidential'
 ts = time.time()
 st = datetime.fromtimestamp(ts).strftime('%Y/%m/%d-%H:%M:%S.000')
 st2 = datetime.fromtimestamp(ts).strftime('%Y/%m/%d-%H:%M:%S.005')
