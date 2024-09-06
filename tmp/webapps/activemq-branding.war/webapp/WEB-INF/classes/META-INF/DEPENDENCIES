@@ -1,0 +1,30 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+ActiveMQ Artemis HawtIO Branding
+
+
+From: 'JBoss by Red Hat' (http://www.jboss.org)
+
+  - hawtio-plugin-mbean (http://hawt.io/hawtio-plugin-mbean/) io.hawt:hawtio-plugin-mbean:bundle:2.17.7
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+<dependency>
+    <groupId>jakarta.jms</groupId>
+    <artifactId>jakarta.jms-api</artifactId>
+    <version>3.0.0</version> <!-- Use the latest version available -->
+</dependency>
+
+<dependency>
+    <groupId>jakarta.jms</groupId>
+    <artifactId>jakarta.jms-api</artifactId>
+    <version>3.0.0</version> <!-- Use the latest version available -->
+</dependency>
+<dependency>
+    <groupId>jakarta.jms</groupId>
+    <artifactId>jakarta.jms-api</artifactId>
+    <version>3.0.0</version> <!-- Use the latest version available -->
+</dependency>

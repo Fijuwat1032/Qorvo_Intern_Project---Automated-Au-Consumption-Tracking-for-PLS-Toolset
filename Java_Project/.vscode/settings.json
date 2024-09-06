@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\ww107106\\Downloads\\javax.jms-api-2.0.jar\\javax.jms-api-2.0.jar",
+        "c:\\Users\\ww107106\\Downloads\\javax.jms-api-2.0.jar\\activemq-client-6.1.2.jar",
+        "c:\\Users\\ww107106\\Downloads\\javax\\javax.jar",
+        "c:\\Users\\ww107106\\Downloads\\javax\\activemq-client-6.1.2.jar",
+        "c:\\Users\\ww107106\\Downloads\\javax\\activemq-client-5.16.2-javadoc.jar"
+    ]
+}

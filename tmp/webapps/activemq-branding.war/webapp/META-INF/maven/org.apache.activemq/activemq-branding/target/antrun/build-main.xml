@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="maven-antrun-" default="main">
+  <target name="main">
+    <echo>Building plugin javascript file list</echo>
+    <fileset id="javascript-files" dir="C:\Users\ww107106\Documents\Eric's_project\tmp\webapps\activemq-branding.war\webapp\META-INF\maven\org.apache.activemq\activemq-branding/src/main/webapp">
+      <include name="**/*.js" />
+    </fileset>
+    <pathconvert dirsep="/" property="plugin-scripts" pathsep="," refid="javascript-files">
+      <map from="C:\Users\ww107106\Documents\Eric's_project\tmp\webapps\activemq-branding.war\webapp\META-INF\maven\org.apache.activemq\activemq-branding/src/main/webapp/" to="" />
+    </pathconvert>
+    <echo>Files: ${plugin-scripts}</echo>
+  </target>
+</project>
