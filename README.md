@@ -83,6 +83,15 @@ pip install pandas pyodbc sqlalchemy
 4. **Run the Notebook**:
    Launch the Jupyter Notebook and open the file `Query Automation for bins.ipynb` to start the automation.
 
+
+## Conclusion
+
+The **Automated Au Consumption Tracking for PLS Toolset** project successfully addresses the critical issue of gold depletion in the wafer plating process. By automating the tracking of amp-hours and monitoring the Au concentration in real time, this solution not only eliminates the need for manual intervention but also significantly enhances operational efficiency. The automated system ensures precise tracking of critical bath parameters, preventing costly mistakes such as gold depletion and reducing the time engineers spend manually adjusting and monitoring the system. 
+
+Through this project, Qorvo can expect both immediate and long-term cost savings, as well as a more efficient production line. The automation of this process serves as a scalable solution that can be expanded to other areas of semiconductor manufacturing where manual tracking remains a bottleneck.
+
+The successful implementation of this system underscores the value of integrating automation and real-time data tracking in industrial processes, highlighting the impact of data-driven solutions on cost savings and operational improvements. This project paves the way for further innovations in manufacturing automation at Qorvo.
+
 ## Acknowledgments
 
 I would like to extend my gratitude to **Eric McComick** for his guidance and support throughout the project. Special thanks to **Phuong-Thao Ton-Nu** for mentorship and valuable input during my internship at Qorvo.
