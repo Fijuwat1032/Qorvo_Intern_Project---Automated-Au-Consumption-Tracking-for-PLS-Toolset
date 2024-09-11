@@ -4,6 +4,9 @@
 
 This project, **Automated Au Consumption Tracking for PLS Toolset**, was developed during an internship at Qorvo. The primary goal was to create an automated system that tracks gold (Au) consumption in the plating process, ensuring no manual tracking is required. This solution aims to eliminate potential gold depletion in the Au plate bath concentration and prevent loss in the semiconductor manufacturing process. Automating the gold consumption tracking improves operational efficiency, reduces manual operator intervention, and results in significant cost savings.
 
+## Disclaimer
+**Due to confidentiality reasons, all data displayed in the repository is fake, and all passwords and usernames have been removed.**
+
 ## Table of Contents
 - [Project Description](#project-description)
 - [Current Problem](#current-problem)
